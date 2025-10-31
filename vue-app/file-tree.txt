@@ -1,0 +1,5 @@
+vue-app/
+├── App.vue
+├── main.js
+└── components/
+    └── HelloWorld.vue
